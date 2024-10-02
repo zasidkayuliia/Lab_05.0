@@ -3,7 +3,7 @@
 #include <cmath>
 
 using namespace std;
-double f(const double a, const double b, const double c); // прототип
+double f (const double a, const double b, const double c); // прототип
 int main()
 
 {
